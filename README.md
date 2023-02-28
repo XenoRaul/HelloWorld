@@ -1,4 +1,4 @@
 # HelloWorld
 Prueba
 
-cout<<"Hola mundo";
+cout<<"Hol mundo";
